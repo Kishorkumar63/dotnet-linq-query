@@ -1,0 +1,15 @@
+/workspaces/dotnet-linq-query/SeparateProject/bin/Debug/net10.0/SeparateProject
+/workspaces/dotnet-linq-query/SeparateProject/bin/Debug/net10.0/SeparateProject.deps.json
+/workspaces/dotnet-linq-query/SeparateProject/bin/Debug/net10.0/SeparateProject.runtimeconfig.json
+/workspaces/dotnet-linq-query/SeparateProject/bin/Debug/net10.0/SeparateProject.dll
+/workspaces/dotnet-linq-query/SeparateProject/bin/Debug/net10.0/SeparateProject.pdb
+/workspaces/dotnet-linq-query/SeparateProject/obj/Debug/net10.0/SeparateProject.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-linq-query/SeparateProject/obj/Debug/net10.0/SeparateProject.AssemblyInfoInputs.cache
+/workspaces/dotnet-linq-query/SeparateProject/obj/Debug/net10.0/SeparateProject.AssemblyInfo.cs
+/workspaces/dotnet-linq-query/SeparateProject/obj/Debug/net10.0/SeparateProject.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-linq-query/SeparateProject/obj/Debug/net10.0/SeparateProject.sourcelink.json
+/workspaces/dotnet-linq-query/SeparateProject/obj/Debug/net10.0/SeparateProject.dll
+/workspaces/dotnet-linq-query/SeparateProject/obj/Debug/net10.0/refint/SeparateProject.dll
+/workspaces/dotnet-linq-query/SeparateProject/obj/Debug/net10.0/SeparateProject.pdb
+/workspaces/dotnet-linq-query/SeparateProject/obj/Debug/net10.0/SeparateProject.genruntimeconfig.cache
+/workspaces/dotnet-linq-query/SeparateProject/obj/Debug/net10.0/ref/SeparateProject.dll
