@@ -65,7 +65,9 @@ public static class DataSeeder
         {
             new Employee { Id = 1, Name = "John", Department = "IT", Salary = 60000 },
             new Employee { Id = 2, Name = "Sara", Department = "HR", Salary = 50000 },
-            new Employee { Id = 3, Name = "David", Department = "IT", Salary = 80000 }
+            new Employee { Id = 3, Name = "David", Department = "IT", Salary = 80000 },
+             new Employee { Id = 4, Name = "John", Department = "HR", Salary = 55000 }, // duplicate name
+    new Employee { Id = 5, Name = "Mike", Department = "IT", Salary = 60000 }  // duplicate salary
         };
     }
 }
